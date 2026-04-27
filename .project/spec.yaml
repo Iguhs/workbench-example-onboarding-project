@@ -23,7 +23,7 @@ layout:
 environment:
     base:
         registry: nvcr.io
-        image: nvidia/ai-workbench/python-basic:1.0.6
+        image: nvidia/pytorch:24.03-py3
         build_timestamp: "20250205043314"
         name: Python Basic
         supported_architectures: []
